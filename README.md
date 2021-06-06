@@ -1,1 +1,1 @@
-[click here to see the page](homepage.html)
+[click here to see the page](/homepage.html)
